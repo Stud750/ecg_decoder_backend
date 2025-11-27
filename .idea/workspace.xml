@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf753877-c84c-4f52-ba49-90c262493d94" name="Changes" comment="настройка бд">
+    <list default="true" id="cf753877-c84c-4f52-ba49-90c262493d94" name="Changes" comment="доработка авторизации">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/myuri-0/ecg_decoder_backend.git",
+    "accountId": "7368bcac-56eb-48d7-ace4-0988adb9b932"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -101,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764239403307</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="доработка авторизации">
+      <option name="closed" value="true" />
+      <created>1764264692352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764264692352</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +131,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start app" />
     <MESSAGE value="настройка бд" />
-    <option name="LAST_COMMIT_MESSAGE" value="настройка бд" />
+    <MESSAGE value="доработка авторизации" />
+    <option name="LAST_COMMIT_MESSAGE" value="доработка авторизации" />
   </component>
 </project>
