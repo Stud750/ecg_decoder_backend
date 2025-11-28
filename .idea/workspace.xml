@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf753877-c84c-4f52-ba49-90c262493d94" name="Changes" comment="доработка авторизации">
+    <list default="true" id="cf753877-c84c-4f52-ba49-90c262493d94" name="Changes" comment="микроисправление">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,12 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/myuri-0/ecg_decoder_backend.git",
-    "accountId": "7368bcac-56eb-48d7-ace4-0988adb9b932"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;myuri-0&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/myuri-0/ecg_decoder_backend.git&quot;,
+    &quot;accountId&quot;: &quot;7368bcac-56eb-48d7-ace4-0988adb9b932&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -114,7 +120,31 @@
       <option name="project" value="LOCAL" />
       <updated>1764264692352</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="микроисправление">
+      <option name="closed" value="true" />
+      <created>1764266645159</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764266645159</updated>
+    </task>
+    <task id="LOCAL-00005" summary="микроисправление">
+      <option name="closed" value="true" />
+      <created>1764313993197</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764313993197</updated>
+    </task>
+    <task id="LOCAL-00006" summary="микроисправление">
+      <option name="closed" value="true" />
+      <created>1764314037013</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764314037013</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +162,7 @@
     <MESSAGE value="start app" />
     <MESSAGE value="настройка бд" />
     <MESSAGE value="доработка авторизации" />
-    <option name="LAST_COMMIT_MESSAGE" value="доработка авторизации" />
+    <MESSAGE value="микроисправление" />
+    <option name="LAST_COMMIT_MESSAGE" value="микроисправление" />
   </component>
 </project>
