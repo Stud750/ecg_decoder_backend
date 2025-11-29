@@ -1,7 +1,11 @@
 from fastapi import FastAPI, HTTPException, Response, Depends
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
+<<<<<<< HEAD
 from authx import AuthX, AuthXConfig, RequestToken, TokenPayload
+=======
+from authx import AuthX, AuthXConfig
+>>>>>>> c1407f225bc6847926689acf2fdfa35d1b263f6a
 from sqlalchemy import select
 from dotenv import dotenv_values
 

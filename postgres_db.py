@@ -9,7 +9,7 @@ DATABASE_URL = env_variable["DATABASE_URL"]
 
 engine = create_async_engine(DATABASE_URL, echo=False)
 
-async_session_maker = sessionmaker(engine, expire_on_commit=False, class_=AsyncSession)
+async_session_maker = sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)
 
 Base = declarative_base()
 
